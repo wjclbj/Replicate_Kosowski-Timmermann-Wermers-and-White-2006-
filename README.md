@@ -1,0 +1,1 @@
+# Replicate_Kosowski-Timmermann-Wermers-and-White-2006-
