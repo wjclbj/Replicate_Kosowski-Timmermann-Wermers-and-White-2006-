@@ -49,3 +49,5 @@ The table below shows that
 * The First & Second row reports the linear regression estimate of monthly alphas of mutual funds RANKED ON CARHART ALPHA in % and cross-senctional bootstrapped p-value for alpha regression. The 3rd row reports the normal t-stats of alpha estimation. 
 
 * Whereas the 4th-6th report the same metrics RANKED ON the t-stats of their CARHART ALPHA.
+
+If jupyter notebook cannot be reviewed, please try paste the link into https://nbviewer.jupyter.org/.
